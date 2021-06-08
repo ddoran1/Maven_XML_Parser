@@ -10,9 +10,9 @@ import org.json.simple.JSONObject;
 
 
 public class App {
-	private static String xml_path = "C:\\Users\\david\\OneDrive\\Desktop\\xml_files\\ab.xml";
-	private static String json_output_path = "C:\\Users\\david\\OneDrive\\Desktop\\output\\output.json";
-	private static String xml_output_path = "C:\\Users\\david\\OneDrive\\Desktop\\output\\";
+	private static String xml_path = "FILE_PATH\\ab.xml";
+	private static String json_output_path = "FILE_PATH\\output.json";
+	private static String xml_output_path = "FILE_PATH\\";
 	public static ArrayList<Contact> contact_list = new ArrayList<Contact>();
 	
 	
